@@ -5,7 +5,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<content></content>
-		<apps:property name='from' value='chereeljgarvey@onet.pl|theoppanclat@mail.com|WalterRobinsonexa@asianet.co.th|KylieGonzalesg@lipinspartners.com.au|gurinec9andrej11@gmail.com|RussellGriffinexgae@locus.it|ramonawest164@gmail.com|yongcreech@gmail.com|jc4148819@gmail.com|terryjoh2987@gmail.com'/>
+		<apps:property name='from' value='PaisleyMurrayv@sovam.net.ua|chereeljgarvey@onet.pl|theoppanclat@mail.com|WalterRobinsonexa@asianet.co.th|KylieGonzalesg@lipinspartners.com.au|gurinec9andrej11@gmail.com|RussellGriffinexgae@locus.it|ramonawest164@gmail.com|yongcreech@gmail.com|jc4148819@gmail.com|terryjoh2987@gmail.com'/>
 		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
