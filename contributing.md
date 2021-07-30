@@ -2,7 +2,7 @@
 
 Contributions are always welcome!
 
-### Report a spam or phishing email
+### Report a spam email
 
 Before reporting, make sure you are using the latest filter update.
 
