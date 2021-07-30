@@ -15,5 +15,16 @@ To start using the filter, follow these steps:
 - Check **Apply new filters to existing email** (optional).
 - Click **Create filters**.
 
-## Contributing
-Contributions are always welcome! Please read the [contribution guidelines](https://github.com/BarhamBasha/GmailSpamFilter/blob/main/contributing.md) first.
+## FAQ
+
+**Q:** What type of mail will be deleted?
+
+**A:** 
+- Scam
+- Spam
+- Unsubscribe is not allowed
+- Contains links to suspicious websites
+
+**Q:** How do I contribute?
+
+**A:** Contributions are always welcome! Please read the [contribution guidelines](https://github.com/BarhamBasha/GmailSpamFilter/blob/main/contributing.md) first.
