@@ -17,7 +17,7 @@ To start using the filter, follow these steps:
 
 ## FAQ
 
-**Q:** What type of mail will be deleted?
+**Q:** What type of email will be deleted?
 
 **A:** 
 - Scam
