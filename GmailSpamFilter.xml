@@ -1,11 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
 	<title>Mail Filters</title>
-	<id>tag:mail.google.com,2008:filters:z0000001625708994645*0320037546033244730,z0000001625709137760*0702553400854280607</id>
-	<updated>2021-07-29T21:17:09Z</updated>
+	<id>tag:mail.google.com,2008:filters:z0000001633976854327*5897254709371286682</id>
+	<updated>2021-10-11T18:31:59Z</updated>
 	<author>
 		<name>Barham Barham</name>
 		<email>itsbarham@gmail.com</email>
 	</author>
-	// Add Filters Here
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001633976854327*5897254709371286682</id>
+		<updated>2021-10-11T18:31:59Z</updated>
+		<content></content>
+		<apps:property name='from' value='iakvova2@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
 </feed>
