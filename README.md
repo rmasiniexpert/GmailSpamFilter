@@ -27,7 +27,7 @@ To start using the filter, follow these steps:
 
 **Q:** Do I have to delete all old filters?
 
-**A:** No, you don't have to delete old filters, Gmail integrates duplicate filters. However, filters may fail to function properly if there is a conflict.
+**A:** No, you don't have to delete old filters, Gmail integrates duplicate filters. However, some filters may fail if there is a conflict.
 
 **Q:** Can I create my own filters?
 
