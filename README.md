@@ -31,7 +31,7 @@ To start using the filter, follow these steps:
 
 **Q:** Can I create my own filters?
 
-**A:** There is no problem in creating your own filters as long as they do not conflict with our filters.
+**A:** Yes, as long as it does not conflict with our filters.
 
 **Q:** How do I contribute?
 
