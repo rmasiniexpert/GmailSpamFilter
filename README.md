@@ -19,11 +19,19 @@ To start using the filter, follow these steps:
 
 **Q:** What type of email will be deleted?
 
-**A:** 
+**A:**
 - Scam
 - Spam
 - Unsubscribe is not allowed
 - Contains links to suspicious websites
+
+**Q:** Do I have to delete all old filters?
+
+**A:** No, you don't have to delete old filters, Gmail integrates duplicate filters. However, filters may fail to function properly if there is a conflict.
+
+**Q:** Can I create my own filters?
+
+**A:** There is no problem in creating your own filters as long as they do not conflict with our filters.
 
 **Q:** How do I contribute?
 
