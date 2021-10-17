@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
 	<title>Mail Filters</title>
-	<id>tag:mail.google.com,2008:filters:z0000001633976854327*5897254709371286682,z0000001633977270431*2741502996686212340,z0000001633977973728*0443435421885103618,z0000001633978052156*7980556328304821195,z0000001633978401584*5616830720302876242</id>
-	<updated>2021-10-11T18:54:31Z</updated>
+	<id>tag:mail.google.com,2008:filters:z0000001633976854327*5897254709371286682,z0000001633977270431*2741502996686212340,z0000001633977973728*0443435421885103618,z0000001633978052156*7980556328304821195,z0000001633978401584*5616830720302876242,z0000001634495287615*6420399283458028714</id>
+	<updated>2021-10-17T18:28:36Z</updated>
 	<author>
 		<name>Barham Barham</name>
 		<email>itsbarham@gmail.com</email>
@@ -11,7 +11,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001633976854327*5897254709371286682</id>
-		<updated>2021-10-11T18:54:31Z</updated>
+		<updated>2021-10-17T18:28:36Z</updated>
 		<content></content>
 		<apps:property name='from' value='iakvova2@gmail.com'/>
 		<apps:property name='shouldTrash' value='true'/>
@@ -22,7 +22,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001633977270431*2741502996686212340</id>
-		<updated>2021-10-11T18:54:31Z</updated>
+		<updated>2021-10-17T18:28:36Z</updated>
 		<content></content>
 		<apps:property name='from' value='@donglejungle.meetyournew.net'/>
 		<apps:property name='shouldTrash' value='true'/>
@@ -33,7 +33,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001633977973728*0443435421885103618</id>
-		<updated>2021-10-11T18:54:31Z</updated>
+		<updated>2021-10-17T18:28:36Z</updated>
 		<content></content>
 		<apps:property name='from' value='@lionslegnanohost.it'/>
 		<apps:property name='shouldTrash' value='true'/>
@@ -44,7 +44,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001633978052156*7980556328304821195</id>
-		<updated>2021-10-11T18:54:31Z</updated>
+		<updated>2021-10-17T18:28:36Z</updated>
 		<content></content>
 		<apps:property name='from' value='ElizabethMillerbyquk@liparinet.it'/>
 		<apps:property name='hasTheWord' value='Let&apos;s get a little closer tonight'/>
@@ -56,9 +56,20 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001633978401584*5616830720302876242</id>
-		<updated>2021-10-11T18:54:31Z</updated>
+		<updated>2021-10-17T18:28:36Z</updated>
 		<content></content>
 		<apps:property name='from' value='dorothydiaz554@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001634495287615*6420399283458028714</id>
+		<updated>2021-10-17T18:28:36Z</updated>
+		<content></content>
+		<apps:property name='from' value='JoelleChatmaniouiz@lng.xmuvd.ru'/>
 		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
